@@ -1,7 +1,6 @@
 #pragma once
 
 #include "kitezh/geometry.hpp"
-
 #include <optional>
 #include <string>
 #include <vector>
